@@ -1,0 +1,5 @@
+Makefile
+includes/
+srcs/
+libft/
+ft_printf.c
