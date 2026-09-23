@@ -1,2 +1,4 @@
 Makefile
 srcs/
+libft/
+ft_printf.h
